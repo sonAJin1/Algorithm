@@ -71,7 +71,7 @@
 #### 04.반성
 - list.map 다시 정리 해볼 것
 - 변수 형의 차이에 대해서 정리 해 볼 것 (Array< Int >와 IntArray의 차이) 
-- subList가 list
+- subList가 list에서는 적용이 되는데 IntArray에서는 적용이 안됨 subList 특성 정리할 것
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzQwMTYzOV19
+eyJoaXN0b3J5IjpbLTE0MjkwNzQwOTFdfQ==
 -->
