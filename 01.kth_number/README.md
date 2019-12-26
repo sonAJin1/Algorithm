@@ -60,8 +60,8 @@
 #### 02.계획
 
 1. k값을 받을 배열 A를 생성한다
-2. Commands 의 개수만큼 for문
-3. (for문 안에서 실행) 배열을 받아온 후 i와 j를 기준으로 잘라 sorting 후 k를 return한다
+2. Commands 의 개수만큼 반복
+3. (반복문 안에서 실행) 배열을 받아온 후 i와 j를 기준으로 잘라 sorting 후 k를 return한다
 4. k값을 배열 A에 넣는다
 ---
 
@@ -69,9 +69,9 @@
 ----
 
 #### 04.반성
-- list.map 다시 정리 해볼 것
+- list.map 을 능숙하게 쓸 수 있을 정도로 연습
 - 변수 형의 차이에 대해서 정리 해 볼 것 (Array< Int >와 IntArray의 차이) 
 - subList가 list에서는 적용이 되는데 IntArray에서는 적용이 안됨 subList 특성 정리할 것
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkwNzQwOTFdfQ==
+eyJoaXN0b3J5IjpbOTg3OTM1ODEsLTE0MjkwNzQwOTFdfQ==
 -->
