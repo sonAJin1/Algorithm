@@ -4,6 +4,11 @@
 
 1. 프로그래머스 문제 level 1부터 풀기
 2. 일주일동안 한 문제에 대해서 각각 다른 방법으로 문제 풀이 진행
+
+---
+
+#### History
+1. [Level1] K번째 수 - 2019.12.26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjYzNzgwNF19
+eyJoaXN0b3J5IjpbLTk0OTQ5NjA5Ml19
 -->
