@@ -66,6 +66,13 @@
 ---
 
 #### 03.실행
+
+    fun getIdxK(array:IntArray, fromIdx:Int, toIdx:Int, K:Int):Int{
+    return array.toList().subList(fromIdx-1,toIdx).sorted()[K-1]
+}
+
+
+
 ----
 
 #### 04.반성
@@ -73,5 +80,5 @@
 - 변수 형의 차이에 대해서 정리 해 볼 것 (Array< Int >와 IntArray의 차이) 
 - subList가 list에서는 적용이 되는데 IntArray에서는 적용이 안됨 subList 특성 정리할 것
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3OTM1ODEsLTE0MjkwNzQwOTFdfQ==
+eyJoaXN0b3J5IjpbLTI4MDc1NzQzNiwtMTQyOTA3NDA5MV19
 -->
