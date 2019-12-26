@@ -63,3 +63,11 @@
 2. Commands 의 개수만큼 for문
 3. (for문 안에서 실행) 배열을 받아온 후 i와 j를 기준으로 잘라 sorting 후 k를 return한다
 4. k값을 배열 A에 넣는다
+---
+
+#### 실행
+----
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNjY5MTUzMTldfQ==
+-->
