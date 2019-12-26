@@ -70,7 +70,8 @@
 
 #### 04.반성
 - list.map 다시 정리 해볼 것
-- 변수 형의 차이에 대해서 정리 해 볼 것 (Array<Int>와 
+- 변수 형의 차이에 대해서 정리 해 볼 것 (Array< Int >와 IntArray의 차이) 
+- subList가 list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzM1NTQzM119
+eyJoaXN0b3J5IjpbMTU3NzQwMTYzOV19
 -->
