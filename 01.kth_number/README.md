@@ -71,13 +71,17 @@
 ----
 
 #### 04.반성
+
+2019.12.26
 - list.map 을 능숙하게 쓸 수 있을 정도로 연습
 - 변수 형의 차이에 대해서 정리 해 볼 것 (Array< Int >와 IntArray의 차이) 
 - subList가 list에서는 적용이 되는데 IntArray에서는 적용이 안됨 subList 특성 정리할 것
 - array.sliceArray 정리할 것
 - Destructuring 고려
 [https://kotlinlang.org/docs/reference/multi-declarations.html](https://kotlinlang.org/docs/reference/multi-declarations.html)
+- 함수 이름 목적성에 맞게 지을 것
+- indent 신경 쓸 것
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc3NDg0MTcsLTEwODEwMDk1MTksLT
-E0MjkwNzQwOTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzE1MjI3MzAsLTE4OTc3NDg0MTcsLT
+EwODEwMDk1MTksLTE0MjkwNzQwOTFdfQ==
 -->
