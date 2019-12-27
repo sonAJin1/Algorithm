@@ -3,7 +3,7 @@ package kth_number
 import org.assertj.core.api.Assertions.assertThat
 import kotlin.test.Test
 
-class AppTest {
+class `20191227` {
     @Test
     fun `get k-th number to array`() {
         assertThat(getKthNumberToArray(intArrayOf(1, 5, 2, 6, 3, 7, 4),
