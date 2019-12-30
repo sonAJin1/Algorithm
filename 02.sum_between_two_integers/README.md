@@ -51,9 +51,9 @@ return
 
 ----
 #### 04.반성
-- 제한조건 정수의 범위를 주는 이유는 변수의 타입을 고려해야 한다는 의도 ( int의 범위를 벗어난 값들이 있어서 부분적으로 테스트 통과하지 못한 값들이 있음 Long으로 수정 후 통과 )
+- 제한조건 정수의 범위를 주는 이유는 변수의 타입을 고려해야 한다는 의도 ( Int의 범위를 벗어난 값들이 있어서 부분적으로 테스트 통과하지 못한 값들이 있음 Long으로 수정 후 통과 )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjExMjYwMiwxNTYxNjgxNzk5XX0=
+eyJoaXN0b3J5IjpbLTE4NDgzNjk3MzQsMTU2MTY4MTc5OV19
 -->
