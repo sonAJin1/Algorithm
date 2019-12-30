@@ -43,9 +43,16 @@ return
 	12
 
 ---
-#### 02. 계획
-- for each 로 a부터 b까지 반복하여 변수에 값을 덯
+#### 02.계획
+- for each 로 a부터 b까지 반복하여 변수에 값을 더하여 출력
+
+---
+#### 03.실행
+
+----
+#### 04.반성
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzU4MjMwNV19
+eyJoaXN0b3J5IjpbMTU2MTY4MTc5OV19
 -->
