@@ -35,9 +35,17 @@ return
 
 12
 
-#### 02.이해
+#### 이해
 - 정수 a, b가 주어졌을 때 a와 b 사이에 속한 모든 정수의 합을 리턴
-- 
+-  a = 3, b = 5
+	3 4 5
+	3+4+5 = 12
+	12
+
+---
+#### 02. 계획
+- for each 로 a부터 b까지 반복하여 변수에 값을 덯
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjUyNDU4N119
+eyJoaXN0b3J5IjpbMTMzMzU4MjMwNV19
 -->
