@@ -9,6 +9,7 @@
 ## History
 1. [Level1] K번째 수 - 2019.12.26~2019.12.30
 2. [Level1] 두 정수 사이의 합 - 2019.12.30~2020.01.06
+3. [Level1] 나누어 떨어지는 숫자 배열 -2019.01.06~
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjY1MzM2MDYsMTU2NzgyODk0MCwxNjY1Nz
 M5MDk5LC05NDk0OTYwOTJdfQ==
