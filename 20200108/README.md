@@ -1,3 +1,8 @@
+## 문제 
+    2016년
+    https://programmers.co.kr/learn/courses/30/lessons/12901?language=kotlin
+
+
 ## 01. 이해
     2016년 1월 1일은 금요일
     2016년 a월 b일은 무슨 요일?
