@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="arrangeMyWay.main" target="11" />
-      <module name="arrangeMyWay.test" target="11" />
+      <module name="arangeMyWay.main" target="11" />
+      <module name="arangeMyWay.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
