@@ -31,10 +31,11 @@ dependencies {
     // Use the Kotlin JUnit integration.
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
 
+
     testImplementation("org.assertj:assertj-core:3.13.2")
 }
 
 application {
     // Define the main class for the application.
-    mainClassName = "com.algorithm.casarpassword.AppKt"
+    mainClassName = "com.algorithm.sum.AppKt"
 }
